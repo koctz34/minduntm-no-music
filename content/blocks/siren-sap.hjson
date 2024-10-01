@@ -1,6 +1,8 @@
   "type": "GenericCrafter",
 	 "researchCostMultiplier": 0.5,
   "health": 50,
+  "ambientSound": sap
+  "ambientSoundVolume": 5
   "pause": false
   "size": 2,
   "hasItems": false,
