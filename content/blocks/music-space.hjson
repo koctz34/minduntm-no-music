@@ -1,7 +1,9 @@
   "type": "GenericCrafter",
 	 "researchCostMultiplier": 0.5,
   "health": 50,
-  "description": "NTM: Space - Beat"
+  "description": "Factorio: Space Age - Aquilo 4 hero"
+  "ambientSound": aquilo-4-hero
+  "ambientSoundVolume": 1000000
   "pause": false
   "size": 2,
   "hasItems": false,

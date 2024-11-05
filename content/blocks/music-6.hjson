@@ -1,7 +1,9 @@
   "type": "GenericCrafter",
 	 "researchCostMultiplier": 0.5,
   "health": 50,
-  "description": "ULTRAKILL - Versus"
+  "description": "Hearts of Iron 4 - The Black Sea"
+  "ambientSound": black
+  "ambientSoundVolume": 1000000
   "pause": false
   "size": 2,
   "hasItems": false,
