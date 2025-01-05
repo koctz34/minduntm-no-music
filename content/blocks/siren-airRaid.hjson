@@ -1,8 +1,6 @@
   "type": "GenericCrafter",
 	 "researchCostMultiplier": 0.5,
   "health": 50,
-  "ambientSound": airRaid
-  "ambientSoundVolume": 10
   "pause": false
   "size": 2,
   "hasItems": false,

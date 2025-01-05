@@ -1,9 +1,7 @@
   "type": "GenericCrafter",
 	 "researchCostMultiplier": 0.5,
   "health": 50,
-  "description": "Minecraft - Otherside"
-  "ambientSound": otherside
-  "ambientSoundVolume": 1000000
+  "description": "Rain World - Kayava"
   "pause": false
   "size": 2,
   "hasItems": false,

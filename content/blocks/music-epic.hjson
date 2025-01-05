@@ -1,9 +1,7 @@
   "type": "GenericCrafter",
 	 "researchCostMultiplier": 0.5,
   "health": 50,
-  "description": "M.A.D.E.S - Return"
-  "ambientSound": return
-  "ambientSoundVolume": 1000000
+  "description": "Red Alert 3 - Hell March 3"
   "pause": false
   "size": 2,
   "hasItems": false,

@@ -1,9 +1,7 @@
   "type": "GenericCrafter",
 	 "researchCostMultiplier": 0.5,
   "health": 50,
-  "description": "Hearts of Iron 4 - The Black Sea"
-  "ambientSound": black
-  "ambientSoundVolume": 1000000
+  "description": "Rain World - Weyuon"
   "pause": false
   "size": 2,
   "hasItems": false,
