@@ -1,7 +1,6 @@
   "type": "GenericCrafter",
 	 "researchCostMultiplier": 0.5,
   "health": 50,
-  "description": "ICBM - 1 Minute Action 1"
   "pause": false
   "size": 2,
   "hasItems": false,

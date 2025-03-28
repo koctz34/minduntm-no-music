@@ -1,7 +1,6 @@
   "type": "GenericCrafter",
 	 "researchCostMultiplier": 0.5,
   "health": 50,
-  "description": "NTM: Space - Space Beat"
   "pause": false
   "size": 2,
   "hasItems": false,
