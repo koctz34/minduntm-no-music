@@ -2,6 +2,8 @@
 	 "researchCostMultiplier": 0.5,
   "health": 50,
   "description": "STALCRAFT (Old) - Bar 3"
+  "ambientSound": 6
+  "ambientSoundVolume": 1000000
   "pause": false
   "size": 2,
   "hasItems": false,
