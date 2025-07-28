@@ -1,6 +1,7 @@
   "type": "GenericCrafter",
 	 "researchCostMultiplier": 0.5,
   "health": 50,
+  "description": "Satisfactory - Caverns"
   "pause": false
   "size": 2,
   "hasItems": false,
